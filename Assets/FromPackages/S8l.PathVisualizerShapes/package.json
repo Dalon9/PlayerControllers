@@ -1,0 +1,16 @@
+{
+  "name": "com.s8l.pathvisualizershapes",
+  "version": "0.0.3",
+  "displayName": "S8l Path Visualizer Shapes",
+  "description": "Strategies for the Guide Path package to visualize the patch using the Shapes plugin.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.guidepath": "0.0.5",
+    "com.s8l.plugins.shapes": "4.1.1"
+  }
+}

@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ccbb50065f77ee48b7020a5673c8d3e, type: 3}
+  m_Name: Fpc Config
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: config
+      Entry: 7
+      Data: 0|S8l.FirstPersonController.Runtime.FpcConfig, S8l.FirstPersonController.Runtime
+    - Name: <RotationSpeed>k__BackingField
+      Entry: 4
+      Data: 1.1
+    - Name: <WalkSpeed>k__BackingField
+      Entry: 4
+      Data: 3
+    - Name: <DragThreshold>k__BackingField
+      Entry: 4
+      Data: 100
+    - Name: <YViewMaxDrag>k__BackingField
+      Entry: 4
+      Data: 50
+    - Name: <PositionMarker>k__BackingField
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: raycastStrategy
+      Entry: 7
+      Data: 1|S8l.FirstPersonController.Runtime.FpcRaycastDefault, S8l.FirstPersonController.Runtime
+    - Name: <InteractableAtDistanceTag>k__BackingField
+      Entry: 1
+      Data: InteractableAtDistance
+    - Name: <FloorTag>k__BackingField
+      Entry: 1
+      Data: Floor
+    - Name: <MaxInteractionDistance>k__BackingField
+      Entry: 4
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: inputStrategies
+      Entry: 7
+      Data: 2|System.Collections.Generic.Dictionary`2[[S8l.CustomPlatformDetector.Runtime.Platforms.BasePlatform,
+        S8l.CustomPlatformDetector.Runtime],[S8l.FirstPersonController.Runtime.FpcInputStrategy,
+        S8l.FirstPersonController.Runtime]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 3|System.Collections.Generic.ObjectEqualityComparer`1[[S8l.CustomPlatformDetector.Runtime.Platforms.BasePlatform,
+        S8l.CustomPlatformDetector.Runtime]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 2
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 4|S8l.CustomPlatformDetector.Runtime.Platforms.EditorAny, S8l.CustomPlatformDetector.Runtime
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 5|S8l.FirstPersonControllerInputSystem.Runtime.FpcInputMouseIS, S8l.FirstPersonControllerInputSystem.Runtime
+    - Name: StillTabThreshold
+      Entry: 4
+      Data: 100
+    - Name: DoubleClickToMove
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 7
+      Data: 6|S8l.CustomPlatformDetector.Runtime.Platforms.Android, S8l.CustomPlatformDetector.Runtime
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: $v
+      Entry: 7
+      Data: 7|S8l.FirstPersonControllerInputSystem.Runtime.FpcInputTouchIS, S8l.FirstPersonControllerInputSystem.Runtime
+    - Name: StillTabThreshold
+      Entry: 4
+      Data: 100
+    - Name: DoubleClickToMove
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

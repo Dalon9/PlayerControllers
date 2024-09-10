@@ -1,0 +1,16 @@
+{
+    "name": "S8l.TestClickerVR.Runtime",
+    "references": [
+        "GUID:6d2be9d90ec521441b415dea923a8801",
+        "GUID:1ca675fdfbc435a498cabeb07f1f53fe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

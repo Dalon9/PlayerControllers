@@ -1,0 +1,12 @@
+{
+  "name": "com.s8l.climbinghelper",
+  "version": "0.0.1",
+  "displayName": "S8l Climbing Helper",
+  "description": "Helper package needed for climbing",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1"
+}

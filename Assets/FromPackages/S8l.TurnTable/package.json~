@@ -1,0 +1,16 @@
+{
+  "name": "com.s8l.rotzoomcam",
+  "version": "0.9.0",
+  "displayName": "S8l Rot Zoom Cam",
+  "description": "Surveillance-like camera which is fixed in position but can be rotated and zoomed",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.customplatformsharedinterfaces": "1.0.0",
+    "com.s8l.customplatformdetector": "1.0.1"
+  }
+}

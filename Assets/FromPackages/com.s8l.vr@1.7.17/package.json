@@ -1,0 +1,17 @@
+{
+  "name": "com.s8l.vr",
+  "version": "1.7.17",
+  "displayName": "S8l VR Library",
+  "description": "Base setup and utilities for VR based on VRTK\n\n1.7.17: Fixed hairline support.\n\n1.7.16: Added Open XR Support, removed Windows MR.\n\n1.7.15: Added Trigger Hairline support\n\n1.7.12: Added Windows MR Support\n\n1.7.8: Added the DDOL lookup in VRTK_SharedMethods\n\n1.7.7: Fixed EventSystem bug introduced by [DisallowMultipleComponent]\n\n1.7.1: Needs 2020.3.17 LTS Version - Updated usage for index touch to use Oculus Usage, Updated deps\n\n1.6.1: Fixed the XR Enabled error prompt.\n\n1.6.0: Split VR Lib into barebones functionality and pretty package\n\n1.5.0: Added HTC Vive Focus Plus Support\n\n1.4.8 : Tracer settings\n\n1.4.7 : Added custom tracers to pointer\n\n1.4.6 : Set tracking origin to floor\n\n1.4.1 : Added support for Pico Neo 2, also downgraded to the latest supported version (2020.1.17f1)\n\n1.4.0 : Using XR Subsystems\n\n1.3.2 : Added TrackingSpaceTracker\n\n1.3.0 : Added PlayerSetup support\n\n1.2.0 : Added hands\n\n1.1.3 : Option to set layers for VRTK pointer renderers \n\n1.1.0 : IMPORTANT - Updated Oculus Integration",
+  "unity": "2020.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.xr.management": "4.0.7",
+    "com.unity.xr.oculus": "1.10.0"
+  },
+  "unityRelease": "17f1"
+}

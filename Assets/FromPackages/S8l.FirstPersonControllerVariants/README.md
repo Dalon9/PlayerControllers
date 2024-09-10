@@ -1,0 +1,1 @@
+1. Create local copies of the Player prefab and config scriptable objects in Assets folder.

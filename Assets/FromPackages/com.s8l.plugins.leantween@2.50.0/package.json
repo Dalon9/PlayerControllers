@@ -1,0 +1,12 @@
+{
+  "name": "com.s8l.plugins.leantween",
+  "version": "2.50.0",
+  "displayName": "S8l LeanTween",
+  "description": "LeanTween. \nHelper lib for tweening/animating values over time.\nCheck https://assetstore.unity.com/packages/tools/animation/leantween-3595 \nfor more info.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1"
+}

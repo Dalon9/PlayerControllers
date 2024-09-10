@@ -1,0 +1,15 @@
+{
+  "name": "com.s8l.guardian",
+  "version": "0.0.3",
+  "displayName": "S8l Guardian",
+  "description": "Simple Package for defining safe play area and obstrusive effects\n\nChangelog:\n- 0.0.3\tAdded compass as dependency",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.compass": "1.0.0"
+  }
+}

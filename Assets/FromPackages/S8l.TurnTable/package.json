@@ -1,0 +1,16 @@
+{
+  "name": "com.s8l.turntable",
+  "version": "0.9.11",
+  "displayName": "S8l Turn Table",
+  "description": "Turning the object in question as opposed to orbit camera\n\nChangelog: \n\nv09.11 Refactored to use Quaternions instead of Vector3\nv0.9.9 Ported UI Awarness and Autoturn from Orbitcamera",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.customplatformsharedinterfaces": "1.0.0",
+    "com.s8l.customplatformdetector": "1.1.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "com.s8l.customplatformdetector",
+  "version": "1.1.0",
+  "displayName": "S8l Custom Platform Detector",
+  "description": "Logic for identification of common platforms  and device combinations\n\nChangelog:\n1.1.0 added StandaloneAny, VRHTCFlow, changed VRHTCFocus\n1.0.1 additional null checks where XRLoader is not populated\n0.9.3 Added static method to platforms and option to cache results\n0.9.2 Added Quest1 and Quest2 Platforms",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.baseconfiguration": "1.0.5",
+    "com.s8l.customplatformsharedinterfaces": "1.0.0",
+    "com.unity.xr.management": "4.0.1"
+  }
+}

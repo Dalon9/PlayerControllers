@@ -1,0 +1,10 @@
+{
+  "name": "com.s8l.baseconfiguration",
+  "version": "1.0.5",
+  "displayName": "S8l Base Configuration",
+  "description": "A base configuration for the configuration manager and other packages",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false
+}

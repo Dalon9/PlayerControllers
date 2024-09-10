@@ -1,0 +1,24 @@
+{
+    "name": "S8l.FirstPersonController.Runtime",
+    "references": [
+        "GUID:464a7f0d7f373ad4c91d51f5c04dce99",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:ce31bec1963c1514bb1d3eb4b7f57320",
+        "GUID:2ac1ea838a6bbe14083812a21f31e4b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.s8l.playersetup",
+            "expression": "0.0.2",
+            "define": "PLAYER_SETUP_PRESENT"
+        }
+    ],
+    "noEngineReferences": false
+}

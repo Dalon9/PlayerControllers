@@ -1,0 +1,16 @@
+{
+  "name": "com.s8l.pathvisualizerbezierpoints",
+  "version": "0.0.2",
+  "displayName": "S8l Path Visualizer Bezier Points",
+  "description": "Strategies for the Guide Path package to visualize the patch using the PathCreator plugin.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.guidepath": "0.0.5",
+    "com.s8l.pathsmootherbezier": "0.0.3"
+  }
+}

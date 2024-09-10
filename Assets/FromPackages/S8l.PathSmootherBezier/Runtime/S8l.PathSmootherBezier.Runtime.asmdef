@@ -1,0 +1,16 @@
+{
+    "name": "S8l.PathSmootherBezier.Runtime",
+    "references": [
+        "GUID:f8fd320e6264213478adcd73fdcc4caf",
+        "GUID:626070ea3273cb844a310aa4f53b31fa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

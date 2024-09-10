@@ -1,0 +1,17 @@
+{
+    "name": "S8l.FirstPersonControllerClimbing.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ea88550c538729e4c98790b2049db4ba",
+        "GUID:c65c872d5b3e7f9409b50f7f6dd9c954"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

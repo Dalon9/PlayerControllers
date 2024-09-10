@@ -1,0 +1,19 @@
+{
+    "name": "S8l.RotZoomCam.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2ac1ea838a6bbe14083812a21f31e4b2",
+        "GUID:ce31bec1963c1514bb1d3eb4b7f57320",
+        "GUID:8ac9b2564baaed864b70460d12db278e",
+        "GUID:1cbfdb36eb3bdb4f7a4359e384a3aead"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

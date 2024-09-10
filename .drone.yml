@@ -1,0 +1,5 @@
+pipeline:
+  npm-publish:
+    image: node:11
+    commands:
+      - ls -d Packages/*/ | xargs -I {} bash -c "cp .npmrc '{}' && cd '{}' && npm publish || true"

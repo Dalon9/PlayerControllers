@@ -1,0 +1,15 @@
+{
+  "name": "com.s8l.screenfader",
+  "version": "0.2.5",
+  "displayName": "S8l Screen Fader",
+  "description": "Simple Package for fading the screen with a singleton facade. Also includes version for VR without using the Canvas.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.plugins.leantween": "2.50.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "com.s8l.guidepath",
+  "version": "0.0.6",
+  "displayName": "S8l Guide Path",
+  "description": "Guide the player with a visual representation of the shortest path to his objective.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.plugins.odin": "3.0.11"
+  }
+}

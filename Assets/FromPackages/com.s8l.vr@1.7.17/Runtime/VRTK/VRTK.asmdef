@@ -1,0 +1,26 @@
+{
+    "name": "VRTK",
+    "rootNamespace": "",
+    "references": [
+        "GUID:68d12d4a7459b934585802de80363546",
+        "GUID:4af21795022437d4bb139a86514b9ff9",
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.s8l.playersetup",
+            "expression": "0.0.2",
+            "define": "PLAYER_SETUP_PRESENT"
+        }
+    ],
+    "noEngineReferences": false
+}

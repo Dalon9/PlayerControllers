@@ -1,0 +1,17 @@
+{
+    "name": "S8l.LeanTween.Editor",
+    "references": [
+        "GUID:d1f1fbfa9fa9beb4f8781bc8f2a012b8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+{
+  "name": "com.s8l.firstpersoncontroller",
+  "version": "0.4.2",
+  "displayName": "S8l First Person Controller",
+  "description": "Old FirstPersonCameraController stripped of dependencies, for player setup refer to provided example, for environment setup you need a navmesh and the ground tagged as 'Floor'",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "keywords": [
+    "tools",
+    "cameracontroller",
+    "fps",
+    "firstperson",
+    "firstpersoncontroller"
+  ],
+  "dependencies": {
+    "com.s8l.baseconfiguration": "1.0.5",
+    "com.unity.ugui": "1.0.0",
+    "com.s8l.customplatformdetector": "1.0.1",
+    "com.s8l.customplatformsharedinterfaces": "1.0.0"
+  }
+}

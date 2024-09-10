@@ -1,0 +1,17 @@
+{
+  "name": "com.s8l.testclickervr",
+  "version": "1.0.2",
+  "displayName": "S8l Test Clicker VR",
+  "description": "Simple Package which emulates rapid consecutive clicks on UI elements in VR.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.s8l.vr": "1.3.3",
+    "com.s8l.testclicker": "1.0.3"
+  }
+}

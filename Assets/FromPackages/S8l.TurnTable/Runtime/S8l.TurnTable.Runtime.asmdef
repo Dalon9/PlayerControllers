@@ -1,0 +1,18 @@
+{
+    "name": "S8l.TurnTable.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3295a535b3b6d3ac6ae6cfe24f3efd55",
+        "GUID:dc01ba2304b1f7b6ab12fb3caff4edca",
+        "GUID:79b379e262637abb38ea198bedc537d2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "VRTK.Editor",
+    "references": [
+        "GUID:6d2be9d90ec521441b415dea923a8801"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.s8l.plugins.pathcreator",
+  "version": "1.2.0",
+  "displayName": "S8l BezierPathCreator",
+  "description": "Plugin from the asset store for quickly creating smooth paths in the editor",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1"
+}

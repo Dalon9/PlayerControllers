@@ -1,0 +1,16 @@
+{
+  "name": "com.s8l.plugins.shapes",
+  "version": "4.1.1",
+  "displayName": "S8l Shapes",
+  "description": "A real-time vector graphics library for Unity to draw Lines, Polylines, Discs, Arcs, Rectangles, Spheres, Tori, and other primitives both as easy-to-use components, and with an immediate-mode API for code-based procedural drawing. Shapes supports drawing both at runtime as well as for debugging purposes in OnDrawGizmos!",
+  "documentationUrl": "https://acegikmo.com/shapes/",
+  "dependencies": {
+    "com.unity.textmeshpro": "1.4.1"
+  },
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "com.s8l.firstpersoncontrollerinputsystem",
+  "version": "0.0.2",
+  "displayName": "S8l First Person Controller Input System",
+  "description": "First Person Controller Strategies using the new Input System",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "keywords": [
+    "tools",
+    "cameracontroller",
+    "fps",
+    "firstperson",
+    "firstpersoncontroller"
+  ],
+  "dependencies": {
+    "com.s8l.firstpersoncontroller": "0.3.6",
+    "com.unity.inputsystem": "1.0.2"
+  }
+}

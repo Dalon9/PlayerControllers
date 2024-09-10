@@ -1,0 +1,17 @@
+{
+    "name": "S8l.TurnTable.Runtime.Interfaces",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2ac1ea838a6bbe14083812a21f31e4b2",
+        "GUID:ce31bec1963c1514bb1d3eb4b7f57320"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "S8l.TurnTable.Runtime.Implementations.Applicators",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3295a535b3b6d3ac6ae6cfe24f3efd55"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

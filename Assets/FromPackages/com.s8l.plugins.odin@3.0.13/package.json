@@ -1,0 +1,22 @@
+{
+  "name": "com.s8l.plugins.odin",
+  "version": "3.0.13",
+  "displayName": "S8l Odin Inspector",
+  "description": "Odin Inspector and Serializer. \r\nInspector extension, exposes more types for modification in inspector\r\nCheck https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041 \r\nfor more info.\r\n\r\nCheck README.md before using the plugin.\r\n\r\nChangelog:\r\n 3.0.12 Added Button under Tools/Odin Inspector/Custom to update the generated dll\r\n 3.0.8 Updated odin version with automatic setup (updating from 2.x might require manual setup) and Build and Run fix. Odin version is still 3.0.7\r\n 2.1.18: Odin version is still 2.1.12.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "samples": [
+    {
+      "displayName": "Link, AOTGenConfig, ImportConfig",
+      "description": "Import this into the project so that you have link.xml and AOTGenerationConfig.asset required for a Build",
+      "path": "Samples~/Link"
+    }
+  ],
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  }
+}

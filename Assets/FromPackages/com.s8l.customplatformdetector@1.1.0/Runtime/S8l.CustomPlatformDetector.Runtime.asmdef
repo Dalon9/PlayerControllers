@@ -1,0 +1,19 @@
+{
+    "name": "S8l.CustomPlatformDetector.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:464a7f0d7f373ad4c91d51f5c04dce99",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:2ac1ea838a6bbe14083812a21f31e4b2",
+        "GUID:f9fe0089ec81f4079af78eb2287a6163"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

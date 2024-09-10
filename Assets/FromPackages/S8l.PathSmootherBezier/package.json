@@ -1,0 +1,16 @@
+{
+  "name": "com.s8l.pathsmootherbezier",
+  "version": "0.0.3",
+  "displayName": "S8l Path Smoother Bezier",
+  "description": "Strategy for the Guide Path package to smooth a path using the Bezier Path Creator plugin.",
+  "unity": "2019.3",
+  "publishConfig": {
+    "registry": "https://nexus.str8labs.net/repository/npm-private/"
+  },
+  "hideInEditor": false,
+  "unityRelease": "5f1",
+  "dependencies": {
+    "com.s8l.plugins.pathcreator": "1.2.0",
+    "com.s8l.guidepath": "0.0.5"
+  }
+}
